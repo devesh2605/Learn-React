@@ -1,0 +1,36 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "This is repo to learn react by Devesh Vyas",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devesh2605/Learn-React.git"
+  },
+  "keywords": [
+    "react",
+    "devesh",
+    "vyas"
+  ],
+  "author": "Devesh Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesh2605/Learn-React/issues"
+  },
+  "homepage": "https://github.com/devesh2605/Learn-React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
